@@ -1,0 +1,47 @@
+#cubo {
+    width: 100px;
+    height: 100px;
+    background: 
+    linear-gradient(180deg,
+    #fcd400 0%,
+    #f18c09 100%);
+
+    display: flex;
+    flex-wrap: wrap;
+    border: 5px solid;
+    border-radius: 5%;
+    box-shadow: inset0px 0px 1px 1px #01ffff;
+}   
+
+#ojo1 {
+    width: 15px;
+    height: 15px;
+    background-color: #01ffff;
+    margin-left: 25%;
+    margin-top: 20%;
+    outline: 5px solid black;
+    box-shadow: 
+    0px 3px 5px 5px yellow;
+}
+
+#ojo2 {
+    width: 15px;
+    height: 15px;
+    background-color: #01ffff;
+    margin-left: 25%;
+    margin-top: 20%;
+    outline: 5px solid black;
+    box-shadow: 
+    0px 3px 5px 5px yellow;
+}
+
+#boca {
+    width: 55px;
+    height: 15px;
+    background-color: #01ffff;
+    margin-left: 25%;
+    margin-top: -10%;
+    outline: 5px solid black;
+    box-shadow: 
+    0px 3px 5px 5px yellow;
+}
